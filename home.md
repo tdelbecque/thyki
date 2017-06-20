@@ -5,3 +5,5 @@
 - [Data Feeds](kgdatafeeds)
 - [NLP Pipeline](kgnlp)
 - [Web services](kgweb)
+
+# Graphical models
