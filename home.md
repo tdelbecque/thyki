@@ -7,3 +7,4 @@
 - [Web services](kgweb)
 
 # Graphical models
+# Kernel methods
